@@ -46,7 +46,7 @@ XSS is a client-side vulnerability that allows an attacker to inject malicious J
 
 📄 Full Report
 
-See [`report/XSS_Week1_Report.docx`](./report/XSS_Week1_Report.docx) for the complete task documentation, including methodology, findings, and all supporting screenshots.
+See XSS_Week1_Report.docx for the complete task documentation, including methodology, findings, and all supporting screenshots.
 
 ---
 *Submitted as part of the M-Tech Summer Internship 2026 – Task  Submission.*
